@@ -1,0 +1,6 @@
+{
+  "client_id": "7woQwhRZ3alTP7RhJxOBMORbFLAa",
+  "redirect_uri": "nhacard://login-callback",
+  "authorization_scope": "openid",
+  "discovery_uri": "https://autentika-cm.gov.cv"
+}
